@@ -11,7 +11,7 @@ This is a simple calculator created using HTML and CSS. The calculator utilizes 
 
 ## Demo
 
-You can try out the calculator online [here](link-to-demo).
+You can try out the calculator online [here](https://mahesh-awaji-calculator.netlify.app/).
 
 ## How to Use
 
