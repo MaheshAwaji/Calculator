@@ -31,6 +31,6 @@ You can try out the calculator online [here](https://mahesh-awaji-calculator.net
 
 ## Credits
 
-- Created by [Mahesh Awaji](https://github.com/YourGitHubUsername)
+- Created by [Mahesh Awaji](https://github.com/MaheshAwaji)
 
 
