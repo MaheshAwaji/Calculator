@@ -27,7 +27,7 @@ You can try out the calculator online [here](https://mahesh-awaji-calculator.net
 
 ## Preview
 
-![Calculator Preview](preview.png)
+![Calculator Preview](Calculator.PNG)
 
 ## Credits
 
